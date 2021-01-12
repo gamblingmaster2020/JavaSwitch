@@ -16,6 +16,7 @@ Java 环境全局切换
 
 1. 修改 **jdk.py**  中的 `java_list`
 2. 双击运行  `java_switch.bat`
+3. 重启资源管理器生效
 
 
 
