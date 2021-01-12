@@ -6,7 +6,7 @@ Java 环境全局切换
 ## 环境依赖
 
 
-**windows系统**
+**windows**
 
 **python 3+**
 
